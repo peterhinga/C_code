@@ -10,7 +10,7 @@ kernel :sweat_smile:
 To run this code you can can 
 
 ```C
-## Ensure you have clang available
+# Ensure you have clang available
 
 git clone https://github.com/peterhinga/C_code/
 
